@@ -14,6 +14,7 @@ body{
     height: 90%;
     padding: 3% 5% 3% 5%;
     overflow: hidden;
+    
 }
 h1{
     font-size: 32pt;
@@ -53,4 +54,47 @@ h1{
 }
 .text-align h1{
     text-align: center;
+}
+.footer-class{
+    background-color: darkslateblue;
+    margin-top: 20px;
+
+}
+.text-align p{
+    margin: 0;
+    text-align: center;
+    padding-bottom: 20px;
+   
+}
+.text-align h3{
+    font-size: xx-large;
+    margin: 0;
+    text-align: center;
+    padding-bottom: 10px;
+   padding-top: 5px;
+}
+#community-part{
+    background-image: url(./shape/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#mission{
+    background-color: #d6eaf8;
+    margin: 15px;
+    box-shadow: 5px 5px 3px #85c1e9;
+   
+}
+#vision{
+    background-color: #d6dbdf;
+    margin: 15px;
+   
+}
+#goal{
+    background-color:#d2b4de;
+    margin: 15px;
+    box-shadow: 5px 5px 3px #bb8fce ;
+}
+#developer-section{
+    margin-right: 30px;
 }
